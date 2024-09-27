@@ -1,1 +1,1 @@
-# Titanic-app-by-wanyin-yang
+# Titanic-app
