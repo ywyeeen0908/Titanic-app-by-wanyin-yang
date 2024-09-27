@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
-
+import seaborn as sns
 
 st.title('Titanic App by Wanyin Yang')
 df = pd.read_csv('train.csv')
