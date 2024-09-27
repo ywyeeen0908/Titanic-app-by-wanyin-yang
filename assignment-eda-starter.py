@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 st.title('Titanic App by Wanyin Yang')
-df = pd.read_csv('train.csv')
+df = pd.read_csv('train_2.csv')
 
 # 显示数据集
 st.write(df)
